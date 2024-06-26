@@ -1,3 +1,3 @@
 FROM alpine:latest
-LABEL version="2.1"
+LABEL version="2.2"
 RUN echo 'Hello, world!'
